@@ -9,5 +9,5 @@ func main() {
 	fmt.Scanf("%d", &hoursW)
 	fmt.Scanf("%f", &salary)
 	total = float64(hoursW) * salary
-	fmt.Printf("NUMBER = %d\nSALARY = U$ %.2f", number, total)
+	fmt.Printf("NUMBER = %d\nSALARY = U$ %.2f\n", number, total)
 }
